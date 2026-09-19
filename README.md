@@ -1,6 +1,6 @@
 # EndeavourOS / Arch Linux / Nviaia
 
-Everything in this repository is designed exclusively for NVIDIA hardware.
+Everything in this repository is designed exclusively for NVIDIA GPU.
 
 **A collection of AI-assisted Python scripts and utilities.**
 
