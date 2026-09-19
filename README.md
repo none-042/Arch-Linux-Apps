@@ -17,7 +17,7 @@ python3 android.py help
 
 These might not all work.
 
-Example python3 android.py
+Example: python3 android.py
 
 Example: python3 android.py ai
 
