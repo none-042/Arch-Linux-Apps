@@ -1,6 +1,6 @@
 # EndeavourOS / Arch Linux / Nvidia
 
-Everything in this repository is designed exclusively for NVIDIA GPU, INTEL CPU.
+Everything in this repository is designed exclusively for NVIDIA GPU, INTEL CPU, EndeavourOS KDE Wayland.
 
 **A collection of AI-assisted Python scripts and utilities.**
 
