@@ -15,7 +15,7 @@ This repository contains standalone Python scripts optimized for EndeavourOS and
 
 `python3 android.py help`
 
-> *These might not all work.*
+ *These might not all work.*
 
 * **Example:** `python3 android.py`
 * **Example:** `python3 android.py ai`
