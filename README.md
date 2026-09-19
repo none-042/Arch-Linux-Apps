@@ -13,32 +13,24 @@ This repository contains standalone Python scripts optimized for EndeavourOS and
 * **`web.py`** — Chrome with dev tools to monitor traffic
 * **`kernel.py`** — EndeavourOS Nvidia (Proprietary,Open,Mesa | Best: Proprietary Driver) with hardened or zen kernel and kde on wayland
 
-python3 android.py help
+`python3 android.py help`
 
-These might not all work.
+> *These might not all work.*
 
-Example: python3 android.py
+* **Example:** `python3 android.py`
+* **Example:** `python3 android.py ai`
+* **Example Reset:** `python3 android.py ai reset`
 
-Example: python3 android.py ai
+Create a file in home directory called `password` with sudo password in it if you do not want to type your password at `sudo`
 
-Example Reset: python3 android.py ai reset
+**Commands:** `docker(Container)` `sandbox(Crosvm)` `no-root(User)` `reset(Delete)` `console(No UI)` `ai(Experimental)` `help(Info)`
 
-Create a file in home directory called password with sudo password in it if you do not want to type your password at sudo
+* **Example:** `python3 android.py no-root ai`
 
-Commands: docker(Container) sandbox(Crosvm) no-root(User) reset(Delete) console(No UI) ai(Experimental) help(Info)
-
-Example: python3 android.py no-root ai
-
-help command is strictly for information.
-
-docker docker container.
-
-no-root compile the Android Open Source Project operating system without root/admin access.
-
-reset completely delete everything and start fresh.
-
-console without dashboard and with cuttlefish webrtc client page enabled
-
-sandbox crosvm sandbox.
-
-ai diagnostics.
+* **`help`** command is strictly for information.
+* **`docker`** docker container.
+* **`no-root`** compile the Android Open Source Project operating system without root/admin access.
+* **`reset`** completely delete everything and start fresh.
+* **`console`** without dashboard and with cuttlefish webrtc client page enabled
+* **`sandbox`** crosvm sandbox.
+* **`ai`** diagnostics.
