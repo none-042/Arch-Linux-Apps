@@ -1,6 +1,6 @@
 # EndeavourOS / Arch Linux / Nvidia
 
-Everything in this repository is designed exclusively for NVIDIA GPU, INTEL CPU, EndeavourOS KDE Wayland.
+Everything in this repository is designed exclusively for NVIDIA GPU, INTEL CPU, EndeavourOS KDE Wayland, UFW Firewall (install ufw if missing or run super.py).
 
 **A collection of AI-assisted Python scripts and utilities.**
 
@@ -12,7 +12,7 @@ This repository contains standalone Python scripts optimized for EndeavourOS and
 * **`osx.py`** — Mac OSX Qemu KVM
 * **`web.py`** — Chrome with dev tools to monitor traffic
 * **`kernel.py`** — EndeavourOS Nvidia (Proprietary,Open,Mesa | Best: Proprietary Driver) with hardened or zen kernel and kde on wayland
-
+* **`super.py`** — Run with internet to install ufw firewall, limit internet, vulnerable services, appArmor enforcement, zsh.
 `python3 android.py help`
 
  *These might not all work.*
