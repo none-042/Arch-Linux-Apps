@@ -15,12 +15,12 @@ python3 android.py help
 These might not all work.
 Example: python3 android.py ai
 Example Reset: python3 android.py ai reset
-  ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
                                                     Commands: docker(Container) sandbox(Crosvm) no-root(User) reset(Delete) console(No UI) ai(Experimental) help(Info)
-  ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
 
                                                     Example: python3 android.py no-root ai
-                                                    ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
                                                     help command is strictly for information.
                                                     docker docker container.
                                                     no-root compile the Android Open Source Project operating system without root/admin access.
@@ -28,5 +28,4 @@ Example Reset: python3 android.py ai reset
                                                     console without dashboard and with cuttlefish webrtc client page enabled
                                                     sandbox crosvm sandbox.
                                                     ai diagnostics.
-                                                    /home/username/cuttlefish: The cuttlefish folder acts as the primary directory used for everything.
-                                                    ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
