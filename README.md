@@ -14,7 +14,7 @@ This repository contains standalone Python scripts optimized for EndeavourOS and
 * **`kernel.py`** — EndeavourOS Nvidia (Proprietary,Open,Mesa | Best: Proprietary Driver) with hardened or zen kernel and kde on wayland
 * **`super.py`** — Run with internet to install UFW firewall, limit internet access, secure vulnerable services, enforce apparmor, install zsh.
 
-* `python3 android.py help`
+`python3 android.py help`
 
 Commands might not all work as expected.
 
