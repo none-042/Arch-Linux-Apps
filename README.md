@@ -11,7 +11,7 @@ This repository contains standalone Python scripts optimized for EndeavourOS and
 * **`android.py`** — Android Crosvm Cuttlefish KVM
 * **`osx.py`** — Mac OSX Qemu KVM
 * **`web.py`** — Chrome with dev tools to monitor traffic
-* **`kernel.py`** — EndeavourOS Nvidia with hardened or zen kernel with kde on wayland
+* **`kernel.py`** — EndeavourOS Nvidia with hardened or zen kernel and kde on wayland
 
 python3 android.py help
 
