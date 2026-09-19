@@ -1,4 +1,7 @@
-# EndeavourOS / Arch Linux
+# EndeavourOS / Arch Linux / Nviaia
+
+Everything in this repository is designed exclusively for NVIDIA hardware.
+
 **A collection of AI-assisted Python scripts and utilities.**
 
 This repository contains standalone Python scripts optimized for EndeavourOS and Arch Linux, developed with the assistance of AI.
@@ -21,7 +24,6 @@ Example Reset: python3 android.py ai reset
 Create a file in home directory called password with sudo password in it if you do not want to type your password at sudo
 
 Commands: docker(Container) sandbox(Crosvm) no-root(User) reset(Delete) console(No UI) ai(Experimental) help(Info)
-
 
 Example: python3 android.py no-root ai
 
