@@ -26,10 +26,15 @@ Commands: docker(Container) sandbox(Crosvm) no-root(User) reset(Delete) console(
 Example: python3 android.py no-root ai
 
 help command is strictly for information.
-docker docker container.
-no-root compile the Android Open Source Project operating system without root/admin access.
-reset completely delete everything and start fresh.
-console without dashboard and with cuttlefish webrtc client page enabled
-sandbox crosvm sandbox.
-ai diagnostics.
 
+docker docker container.
+
+no-root compile the Android Open Source Project operating system without root/admin access.
+
+reset completely delete everything and start fresh.
+
+console without dashboard and with cuttlefish webrtc client page enabled
+
+sandbox crosvm sandbox.
+
+ai diagnostics.
