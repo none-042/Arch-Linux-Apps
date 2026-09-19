@@ -1,4 +1,4 @@
-# EndeavourOS / Arch Linux / Nviaia
+# EndeavourOS / Arch Linux / Nvidia
 
 Everything in this repository is designed exclusively for NVIDIA GPU.
 
