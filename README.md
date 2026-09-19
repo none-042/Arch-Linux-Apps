@@ -12,10 +12,11 @@ This repository contains standalone Python scripts optimized for EndeavourOS and
 * **`osx.py`** — Mac OSX Qemu KVM
 * **`web.py`** — Chrome with dev tools to monitor traffic
 * **`kernel.py`** — EndeavourOS Nvidia (Proprietary,Open,Mesa | Best: Proprietary Driver) with hardened or zen kernel and kde on wayland
-* **`super.py`** — Run with internet to install ufw firewall, limit internet, vulnerable services, apparmor enforcement, zsh.
-`python3 android.py help`
+* `super.py` — Run with internet to install UFW firewall, limit internet access, secure vulnerable services, enforce AppArmor, and install Zsh.
+* 
+* `python3 android.py help`
 
- *These might not all work.*
+> **Note:** These features might not all work as expected.
 
 * **Example:** `python3 android.py`
 * **Example:** `python3 android.py ai`
