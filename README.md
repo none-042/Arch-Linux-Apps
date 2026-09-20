@@ -2,7 +2,7 @@
 
 Everything in this repository is designed exclusively for NVIDIA GPU, INTEL CPU, EndeavourOS KDE Wayland, UFW Firewall (install ufw if missing or run super.py).
 
-**A collection of AI-assisted Python scripts and utilities.**
+**A collection of AI-assisted Python scripts.**
 
 This repository contains standalone Python scripts optimized for EndeavourOS and Arch Linux, developed with the assistance of AI.
 
